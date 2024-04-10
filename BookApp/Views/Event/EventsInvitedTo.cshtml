@@ -1,0 +1,21 @@
+﻿@model IEnumerable<EventModel>
+@{
+    ViewData["Title"] = "Events invited";
+}
+
+<div class="col-md-12">
+    <div class="h-100 p-5 bg-light border rounded-3">
+        <h2 class="text-center">Events Invited To</h2>
+        @foreach (var Event in Model)
+        {
+            <div class="col py-2">
+                <div class="p-2 border bg-light form-inline" style="justify-content:space-between">
+                    <h6 class="px-2">@Event.Title</h6>
+                    <a class="btn btn-outline-primary btn-sm" href="@Url.Action("ViewEvent","Event",new {eventId=Event.EventId })">View Details</a>
+                   
+                </div>
+            </div>
+        }
+
+    </div>
+</div>

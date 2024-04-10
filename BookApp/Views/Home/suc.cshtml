@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "suc";
+}
+@using Microsoft.AspNetCore.Http;
+<h1>suc</h1>
+<div>
+    Welcome @Context.Session.GetString("username")
+    <a asp-controller="Login" asp-action="logout">Logout</a>
+</div>
+

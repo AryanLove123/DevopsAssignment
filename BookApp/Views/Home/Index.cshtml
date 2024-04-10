@@ -1,0 +1,102 @@
+﻿@using Microsoft.AspNetCore.Http;
+@model IEnumerable<EventModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <div class="text-center">
+        <h1 class="display-4 text-primary font-weight-bold">Welcome!!</h1>
+        <div class="row">
+            <div class="col-md-6 ">
+                <a class="btn btn-outline-primary"> <h4>Previous Events</h4></a>
+                <div class="row">
+                    @if (Context.Session.GetString("username") != null)
+                    {
+                        @foreach (var _event in Model)
+                        {
+                            @if (_event.Date < DateTime.Now && (_event.IsPrivate == false || (_event.UserId == Context.Session.GetString("username") && _event.IsPrivate == true)))
+                            {
+                                <div class="container">
+                                    <div class="col py-2">
+                                        <div class="p-2 border bg-light form-inline" style="justify-content:space-between">
+                                            <h6 class="px-2">
+                                                <a class="text-danger" href="@Url.Action("ViewEvent","Event",new {eventId=_event.EventId })">@_event.Title</a>
+                                            </h6>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            }
+                        }
+                    }
+                    else
+                    {
+                        @foreach (var _event in Model)
+                        {
+                            @if (_event.Date < DateTime.Now && _event.IsPrivate == false)
+                            {
+                                <div class="container">
+                                    <div class="col py-2">
+                                        <div class="p-2 border bg-light form-inline" style="justify-content:space-between">
+                                            <h6 class="px-2">
+                                                <a class="text-danger" href="@Url.Action("ViewEvent","Event",new {eventId=_event.EventId })">@_event.Title</a>
+                                            </h6>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        }
+                    }
+
+                </div>
+
+            </div>
+            <div class="col-md-6 ">
+                <a class="btn btn-outline-primary" ><h4>Upcoming Events</h4></a>
+                <div class="row">
+                    @if (Context.Session.GetString("username") != null)
+                    {
+                        @foreach (var _event in Model)
+                        {
+                            @if (_event.Date > DateTime.Now && (_event.IsPrivate == false || (_event.UserId == Context.Session.GetString("username") && _event.IsPrivate == true)))
+                            {
+                                <div class="container">
+                                    <div class="col py-2">
+                                        <div class="p-2 border bg-light form-inline" style="justify-content:space-between">
+                                            <h6 class="px-2">
+                                                <a class="text-danger" href="@Url.Action("ViewEvent","Event",new {eventId=_event.EventId })">@_event.Title</a>
+                                            </h6>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            }
+                        }
+                    }
+                    else
+                    {
+                        @foreach (var _event in Model)
+                        {
+
+                            @if (_event.Date > DateTime.Now && _event.IsPrivate == false)
+                            {
+                                <div class="container">
+                                    <div class="col py-2">
+                                        <div class="p-2 border bg-light form-inline" style="justify-content:space-between">
+                                            <h6 class="px-2">
+                                                <a class="text-danger" href="@Url.Action("ViewEvent","Event",new {eventId=_event.EventId })">@_event.Title</a>
+                                            </h6>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

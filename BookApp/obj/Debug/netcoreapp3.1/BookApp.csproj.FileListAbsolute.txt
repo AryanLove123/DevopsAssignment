@@ -1,0 +1,660 @@
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.exe
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.deps.json
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.runtimeconfig.json
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.runtimeconfig.dev.json
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.pdb
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.Views.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.Views.pdb
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.csproj.AssemblyReference.cache
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.AssemblyInfoInputs.cache
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.AssemblyInfo.cs
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.csproj.CoreCompileInputs.cache
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.RazorAssemblyInfo.cache
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.RazorAssemblyInfo.cs
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\staticwebassets\BookApp.StaticWebAssets.Manifest.cache
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\staticwebassets\BookApp.StaticWebAssets.xml
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookApp.styles.css
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.TagHelpers.input.cache
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.TagHelpers.output.cache
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.RazorCoreGenerate.cache
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.RazorTargetAssemblyInfo.cache
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.RazorTargetAssemblyInfo.cs
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.Views.pdb
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.pdb
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.genruntimeconfig.cache
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.csproj.CopyComplete
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Register\Register.cshtml.g.cs
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\suc.cshtml.g.cs
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\CreateEvent.cshtml.g.cs
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\ViewEvent.cshtml.g.cs
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\MyEvents.cshtml.g.cs
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\EventsInvitedTo.cshtml.g.cs
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\AllEvents.cshtml.g.cs
+C:\Users\joykarmakar\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\EditEvent.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.exe
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.deps.json
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.runtimeconfig.json
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.runtimeconfig.dev.json
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.pdb
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.Views.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.Views.pdb
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.csproj.AssemblyReference.cache
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.AssemblyInfoInputs.cache
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.AssemblyInfo.cs
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.csproj.CoreCompileInputs.cache
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.RazorAssemblyInfo.cache
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.RazorAssemblyInfo.cs
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\staticwebassets\BookApp.StaticWebAssets.Manifest.cache
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\staticwebassets\BookApp.StaticWebAssets.xml
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookApp.styles.css
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.TagHelpers.input.cache
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.TagHelpers.output.cache
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.RazorCoreGenerate.cache
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\AllEvents.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\CreateEvent.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\EditEvent.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\EventsInvitedTo.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\MyEvents.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\ViewEvent.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\suc.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Register\Register.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.RazorTargetAssemblyInfo.cache
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.RazorTargetAssemblyInfo.cs
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.Views.pdb
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.csproj.CopyComplete
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.dll
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.pdb
+C:\Users\lovekesharya\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.genruntimeconfig.cache
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.exe
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.deps.json
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.runtimeconfig.json
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.runtimeconfig.dev.json
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.pdb
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.Views.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.Views.pdb
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.csproj.AssemblyReference.cache
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.AssemblyInfoInputs.cache
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.AssemblyInfo.cs
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.csproj.CoreCompileInputs.cache
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.RazorAssemblyInfo.cache
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.RazorAssemblyInfo.cs
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\staticwebassets\BookApp.StaticWebAssets.Manifest.cache
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\staticwebassets\BookApp.StaticWebAssets.xml
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookApp.styles.css
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.TagHelpers.input.cache
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.TagHelpers.output.cache
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.RazorCoreGenerate.cache
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\AllEvents.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\CreateEvent.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\EditEvent.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\EventsInvitedTo.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\MyEvents.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\ViewEvent.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\suc.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Register\Register.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.RazorTargetAssemblyInfo.cache
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.RazorTargetAssemblyInfo.cs
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.Views.pdb
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.csproj.CopyComplete
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.dll
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.pdb
+C:\Users\lovekesharya\Desktop\All Project\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.genruntimeconfig.cache
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.exe
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.deps.json
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.runtimeconfig.json
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.runtimeconfig.dev.json
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.pdb
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.Views.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.Views.pdb
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.csproj.AssemblyReference.cache
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.AssemblyInfoInputs.cache
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.AssemblyInfo.cs
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.csproj.CoreCompileInputs.cache
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.RazorAssemblyInfo.cache
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.RazorAssemblyInfo.cs
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\staticwebassets\BookApp.StaticWebAssets.Manifest.cache
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\staticwebassets\BookApp.StaticWebAssets.xml
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookApp.styles.css
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.TagHelpers.input.cache
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.TagHelpers.output.cache
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.RazorCoreGenerate.cache
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\AllEvents.cshtml.g.cs
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\CreateEvent.cshtml.g.cs
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\EditEvent.cshtml.g.cs
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\EventsInvitedTo.cshtml.g.cs
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\MyEvents.cshtml.g.cs
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Event\ViewEvent.cshtml.g.cs
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\suc.cshtml.g.cs
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Register\Register.cshtml.g.cs
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.RazorTargetAssemblyInfo.cache
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.RazorTargetAssemblyInfo.cs
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.Views.pdb
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.csproj.CopyComplete
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.dll
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.pdb
+C:\Users\lovekesharya\OneDrive - Nagarro\Desktop\AWSGIT\lovekesh-kumar-arya\MVC Assignment Resubmission\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.genruntimeconfig.cache

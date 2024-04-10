@@ -1,0 +1,21 @@
+﻿@model IEnumerable<EventModel>
+@{
+    ViewData["Title"] = "My Event";
+}
+
+<div class="col-md-12">
+    <div class="h-100 p-5 bg-light border rounded-3">
+        <h2 class="text-center">My Events</h2>
+        @foreach (var Event in Model)
+        {
+            <div class="col-md-12 py-2">
+                <div class="p-2 border bg-light form-inline justify-content-between">
+                        <div class="px-2 text-wrap" style="width:8rem">@Event.Title</div>
+                        <a class="btn btn-outline-primary btn-sm" href="@Url.Action("ViewEvent","Event",new {eventId=Event.EventId })">View Details</a>
+                        <a class="btn btn-outline-primary btn-sm" href="@Url.Action("EditEvent","Event",new {eventId=Event.EventId })">Edit Details</a>
+                </div>
+            </div>
+          }
+
+     </div>
+ </div>

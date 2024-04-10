@@ -1,0 +1,75 @@
+﻿@using Microsoft.AspNetCore.Http;
+@model EventModel
+@{ ViewBag.Title = "ViewEvent"; }
+
+
+<h2>ViewEvent</h2>
+<div class="col-md-12" align="center">
+    <div class="card mb-12 shadow-sm" style="width: 50%;" align="center">
+        <div class="card-body">
+            <h3 class="card-title font-weight-bold text-dark">@Model.Title</h3>
+
+        <div class="card-body">
+
+           @if (Model.Description != null)
+            {
+                <div>
+                    <p class="card-text"> <p class="text-success d-inline">Description :</p> @Model.Description</p>
+                </div>
+            }
+           @if (Model.OtherDetails != null)
+            {
+                <div>
+                    <p class="card-text"> <p class="text-success d-inline">OtherDetails :</p> @Model.OtherDetails</p>
+                </div>
+            }
+
+                <div>
+                    <p class="card-text"> <p class="text-success d-inline">Venue</p> : @Model.Location</p>
+                </div>
+
+                <div>
+                    <p class="card-text"> <p class="text-success d-inline">Event Date</p> : @Model.Date.ToShortDateString()</p>
+                </div>
+
+                <div>
+                    <p class="card-text"> <p class="text-success d-inline">Start Time :</p> @Model.StartTime.ToShortTimeString()</p>
+                </div>
+
+           @if (Model.Duration != null)
+            {
+                <div>
+                    <p class="card-text"> <p class="text-success d-inline">Duration :</p> @Model.Duration</p>
+                </div>
+            }
+
+           @if (Model.InviteByEmail != null)
+            {
+                var count = Model.InviteByEmail.Split(',').Count();
+                <div>
+                    <p class="card-text"> <p class="text-success d-inline">Total Invitees :</p> @count</p>
+                </div>
+            }
+        </div>
+
+            <div class="row">
+                @if (Model.IsPrivate == false)
+                {
+                    <div class="col-md-6">
+                        <div>It's a <p class="font-weight-bold d-inline text-primary">Public</p>Event</div>
+                    </div>
+                }
+                else
+                {
+                    <div class="col-md-6">
+                        <div>It's a <p class="font-weight-bold d-inline text-primary">Private</p>Event</div>
+                    </div>
+                }
+                
+                <div class="col-md-6">
+                    <div>Organised by <p class="font-weight-bold d-inline text-danger">@Model.UserId</p></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
